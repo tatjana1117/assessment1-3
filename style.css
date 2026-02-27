@@ -87,3 +87,11 @@ article {
 aside {
     flex: 1;
 }
+
+a {
+    text-decoration: none;      
+}
+
+a:hover {
+    text-decoration: underline;
+}
